@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "307987207309",
+    "project_id": "dermascanai-4f3fa",
+    "storage_bucket": "dermascanai-4f3fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307987207309:android:11fdc6227512b8bd9abec4",
+        "android_client_info": {
+          "package_name": "com.FYP.DermaScanAI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307987207309-gutv06ekkv213jf3t9gv3k6tti71951l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQ5kbFT0KP9ir98ioQlXa1YZsvSh9n-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307987207309-gutv06ekkv213jf3t9gv3k6tti71951l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307987207309-1glblln7p7uu086oo7gms0f2aa93rh0p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.Exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

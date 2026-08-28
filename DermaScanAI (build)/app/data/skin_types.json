@@ -1,0 +1,145 @@
+{
+  "Oily": {
+    "description": "Oily skin is characterized by the overproduction of sebum (seborrhea), often genetic or hormonal. This leads to comedones and provides a fertile environment for C. acnes bacteria.",
+    "sideEffects": [
+      "Enlarged pores, greasy texture, and shiny look.",
+      "Frequent acne breakouts, blackheads, and whiteheads.",
+      "Makeup does not stay in place for long.",
+      "Susceptibility to fungal acne (Malassezia folliculitis)."
+    ],
+    "avoid": [
+      "Heavy oil based creams and thick makeup products.",
+      "Over cleansing (triggers rebound oil production).",
+      "Skipping moisturizer (can lead to dehydration and more oil).",
+      "Sugary and fried foods that may increase sebum production."
+    ],
+    "tips": [
+      "Use gentle gel based or foaming cleansers.",
+      "Opt for oil free, lightweight moisturizers.",
+      "Use blotting paper to manage shine during the day.",
+      "Incorporate BHA (Salicylic Acid) liquid exfoliant 3 times a week.",
+      "Apply clay or charcoal masks 1–2 times weekly.",
+      "Use a matte finish, non comedogenic sunscreen daily."
+    ],
+    "recommendedIngredients": [
+      "Niacinamide (reduces oil and pore size).",
+      "Salicylic Acid (BHA) (penetrates deep to dissolve sebum).",
+      "Retinoids (Vitamin A derivatives that regulate sebum and cell turnover).",
+      "Zinc PCA, Green Tea Extract, Clay Minerals."
+    ]
+  },
+  "Dry": {
+    "description": "Dry skin (xerosis) involves a lack of both moisture and sebum, leading to a compromised skin barrier and increased Transepidermal Water Loss (TEWL).",
+    "sideEffects": [
+      "Tight feeling, rough texture, and flaky/scaly patches.",
+      "Dull appearance due to dehydration.",
+      "Fine lines appear more visible.",
+      "Prone to irritation, itching, and cracking."
+    ],
+    "avoid": [
+      "Hot water while washing the face or bathing.",
+      "Foaming cleansers containing sulfates.",
+      "Alcohol based products and astringent toners.",
+      "Using heating/cooling systems that excessively dry the air."
+    ],
+    "tips": [
+      "Use a hydrating cream based cleanser with ceramides.",
+      "Moisturize immediately after cleansing while skin is damp.",
+      "Use thicker creams or ointments at night (occlusives).",
+      "Run a humidifier in dry climates.",
+      "Exfoliate very gently (once a week maximum)."
+    ],
+    "recommendedIngredients": [
+      "Hyaluronic Acid (HA) (draws and binds water).",
+      "Ceramides (repairs skin barrier and prevents water loss).",
+      "Shea Butter / Squalane (occlusives to lock in moisture).",
+      "Glycerin, Urea, Lactic Acid (mild AHA for hydration)."
+    ]
+  },
+  "Combination": {
+    "description": "Combination skin exhibits distinct zonal characteristics: typically oiliness in the T zone (forehead, nose, and chin) and dryness or normality on the cheeks and jawline.",
+    "sideEffects": [
+      "Oily forehead and nose, but dry/normal cheeks.",
+      "Frequent blackheads on the T zone.",
+      "Difficulty choosing the correct moisturizer consistency.",
+      "Occasional acne breakouts and flakiness together."
+    ],
+    "avoid": [
+      "Using one uniform product for the entire face.",
+      "Heavy creams on oily zones.",
+      "Skipping moisturizer on dry areas.",
+      "Harsh physical scrubs or alcohol based toners."
+    ],
+    "tips": [
+      "Use a gentle, pH balanced cleanser.",
+      "Apply lightweight gel moisturizer all over the face.",
+      "Use multi masking (clay mask on T zone, hydrating mask on cheeks).",
+      "Balance routine with Niacinamide or Panthenol.",
+      "Employ 'zonal moisturizing' by layering a light cream on the cheeks only."
+    ],
+    "recommendedIngredients": [
+      "Niacinamide (balances oil and improves barrier).",
+      "Hyaluronic Acid (provides lightweight, oil free hydration).",
+      "Green Tea, Panthenol (restores balance and soothes).",
+      "Mandelic Acid (gentle AHA for exfoliation)."
+    ]
+  },
+  "Sensitive": {
+    "description": "Sensitive skin is characterized by an exaggerated inflammatory response to stimuli due to a compromised skin barrier or easily excitable nerve endings. Often linked to Rosacea or Eczema.",
+    "sideEffects": [
+      "Burning, stinging, and redness (Erythema).",
+      "Itching and inflamed patches.",
+      "Exaggerated reaction to temperature changes (flushing).",
+      "Bumpy texture or hives (contact dermatitis) after product use."
+    ],
+    "avoid": [
+      "High Risk Irritants (Alcohol denat, Synthetic fragrances, Dyes).",
+      "Strong acids or abrasive physical scrubs.",
+      "Hot environments (saunas, very hot water).",
+      "Frequent product switching or mechanical cleansing brushes."
+    ],
+    "tips": [
+      "Always patch test new products.",
+      "Adopt a simple 'cleanse, soothe, protect' routine.",
+      "Use a low pH, creamy, non foaming cleanser.",
+      "Protect from sun with **Mineral Sunscreens** (Zinc Oxide or Titanium Dioxide).",
+      "Use cool compresses for flare ups.",
+      "Introduce new ingredients one at a time."
+    ],
+    "recommendedIngredients": [
+      "Centella Asiatica (Cica) (calms inflammation and repairs barrier).",
+      "Ceramides (crucial for lipid replenishment).",
+      "Aloe Vera, Colloidal Oatmeal (relieves itching and irritation).",
+      "Allantoin, Bisabolol, Squalane."
+    ]
+  },
+  "Normal": {
+    "description": "Normal skin (eudermic) is characterized by optimal balance. Oil and moisture levels are adequate, the barrier function is strong, and the skin is rarely reactive or troubled.",
+    "sideEffects": [
+      "Generally clear of major issues.",
+      "Occasional dryness in winter or mild oiliness in summer.",
+      "Minor breakouts possible under stress.",
+      "Requires preventative care against environmental damage and aging."
+    ],
+    "avoid": [
+      "Skipping daily sunscreen or moisturizer.",
+      "Over exfoliating healthy skin.",
+      "Using harsh or heavily fragranced products unnecessarily.",
+      "Using products designed for severe acne or oil control."
+    ],
+    "tips": [
+      "Maintain a consistent cleanse, treat, moisturize, and SPF routine.",
+      "Incorporate a **Vitamin C serum** in the morning for protection.",
+      "Introduce a mild **Retinoid** (retinol/retinaldehyde) at night for prevention.",
+      "Use a mild **chemical exfoliator** 1–2 times per week.",
+      "Focus on neck and chest care as well."
+    ],
+    "recommendedIngredients": [
+      "Vitamin C (antioxidant that fights free radical damage).",
+      "Retinoids (boost cell turnover and stimulate collagen).",
+      "Hyaluronic Acid (maintains healthy hydration levels).",
+      "Peptides (signal the skin to produce more collagen).",
+      "Niacinamide, Vitamin E, Resveratrol."
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "screenData": {
+    "title": "Your Skin Analysis Results",
+    "concern": {
+      "name": "Mild Acne",
+      "matchPercentage": 80,
+      "imageUrl": "path/to/your/eczema/image.jpg"
+    },
+    "understanding": {
+      "title": "Understanding Mild Eczema",
+      "definition": "Eczema is a common skin condition causing dry, itchy, and inflamed patches.",
+      "causes": "Often triggered by environmental irritants, dry weather, stress, or certain fabrics."
+    },
+    "actionPlan": {
+      "title": "Your Personalized Action Plan",
+      "recommendations": [
+        {
+          "text": "Hypoallergenic Moisturizer",
+          "isRecommended": true
+        },
+        {
+          "text": "Hypocathic bristurizer",
+          "isRecommended": false
+        },
+        {
+          "text": "Gentle, fragrance-free cleanser",
+          "isRecommended": false
+        },
+        {
+          "text": "Topical creams with Hydrocortisone",
+          "isRecommended": false
+        },
+        {
+          "text": "Dry or cold air",
+          "isRecommended": true
+        }
+      ]
+    },
+    "disclaimer": "This analysis is for informational purposes only. Consult a certified dermatologist for diagnosis."
+  }
+}

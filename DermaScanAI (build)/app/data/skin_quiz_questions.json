@@ -1,0 +1,204 @@
+{
+  "baseQuestions": [
+    {
+      "id": 1,
+      "question": "How does your bare skin feel 1 hour after washing with a gentle cleanser (no products applied)?",
+      "options": [
+        "Very tight, dry, and uncomfortable - like it's stretching",
+        "Comfortable and balanced - not too dry or oily",
+        "Already looks shiny or greasy",
+        "My forehead and nose are oily, but my cheeks feel dry"
+      ],
+      "weights": {
+        "dry": 3,
+        "normal": 1,
+        "oily": 3,
+        "combination": 2
+      }
+    },
+    {
+      "id": 2,
+      "question": "How would you describe the size of your pores?",
+      "options": [
+        "Barely visible - I can't really see them",
+        "Large and noticeable all over my face",
+        "Large only on my nose and forehead, small on cheeks",
+        "Look clogged with blackheads or little dots"
+      ],
+      "weights": {
+        "dry": 1,
+        "oily": 3,
+        "combination": 2,
+        "normal": 1
+      }
+    },
+    {
+      "id": 3,
+      "question": "How often do you get pimples, whiteheads, or blackheads?",
+      "options": [
+        "Rarely - maybe 1 or 2 around my period",
+        "Frequently - I almost always have breakouts",
+        "Only on my forehead, nose, or chin (not on cheeks)",
+        "Occasional small pimples that heal quickly"
+      ],
+      "weights": {
+        "dry": 1,
+        "oily": 3,
+        "combination": 2,
+        "normal": 1
+      }
+    },
+    {
+      "id": 4,
+      "question": "When you try new skincare products or face makeup, what happens?",
+      "options": [
+        "Often burns, stings, or turns my face red",
+        "Sometimes gets irritated with certain products",
+        "Almost never reacts - my skin is tough",
+        "Gets oily or causes breakouts from rich products"
+      ],
+      "weights": {
+        "sensitive": 3,
+        "normal": 1,
+        "combination": 1,
+        "oily": 1
+      }
+    },
+    {
+      "id": 5,
+      "question": "How does your skin change in cold, dry winter weather?",
+      "options": [
+        "Gets very dry, flaky, rough, or painfully tight",
+        "Gets red, chapped, or irritated easily",
+        "My T-zone stays oily but cheeks become dry",
+        "No big change - stays pretty balanced"
+      ],
+      "weights": {
+        "dry": 3,
+        "sensitive": 2,
+        "combination": 2,
+        "normal": 1
+      }
+    },
+    {
+      "id": 6,
+      "question": "How does your skin behave in hot, humid summer weather?",
+      "options": [
+        "Becomes very oily and shiny all over my face",
+        "Gets sticky and sweaty with more breakouts",
+        "My T-zone gets oily but cheeks stay fine",
+        "Stays comfortable and doesn't change much"
+      ],
+      "weights": {
+        "oily": 3,
+        "combination": 2,
+        "normal": 1,
+        "dry": 1
+      }
+    },
+    {
+      "id": 7,
+      "question": "By mid-day (without blotting or powder), your face looks:",
+      "options": [
+        "Shiny and greasy all over - I need to blot",
+        "Matte or dull - could use some glow",
+        "Shiny on forehead/nose/chin, normal on cheeks",
+        "Fresh with a natural healthy glow"
+      ],
+      "weights": {
+        "oily": 3,
+        "dry": 2,
+        "combination": 2,
+        "normal": 1
+      }
+    },
+    {
+      "id": 8,
+      "question": "How would you best describe your skin overall?",
+      "options": [
+        "Always dry - needs moisturizer constantly",
+        "Always oily - my face looks shiny most of the day",
+        "Oily in some areas (nose/forehead) and dry in others (cheeks)",
+        "Easily irritated, red, or reacts to many products",
+        "Balanced and healthy - no major concerns"
+      ],
+      "weights": {
+        "dry": 3,
+        "oily": 3,
+        "combination": 3,
+        "sensitive": 3,
+        "normal": 3
+      }
+    }
+  ],
+  "followUpQuestions": [
+    {
+      "id": 101,
+      "tag": "oily",
+      "question": "How soon after washing does oil start coming back on your face?",
+      "options": [
+        "Within 1-2 hours",
+        "Within 2-4 hours",
+        "After 4-6 hours",
+        "By the end of the day"
+      ],
+      "weights": {
+        "oily": 3,
+        "combination": 2,
+        "normal": 1,
+        "dry": 1
+      }
+    },
+    {
+      "id": 102,
+      "tag": "dry",
+      "question": "Does your skin feel tight after using a regular foaming face wash?",
+      "options": [
+        "Very tight and uncomfortable - feels stripped",
+        "Slightly dry but okay",
+        "Feels clean and fresh",
+        "No different from usual"
+      ],
+      "weights": {
+        "dry": 3,
+        "sensitive": 2,
+        "normal": 1,
+        "oily": 1
+      }
+    },
+    {
+      "id": 103,
+      "tag": "sensitive",
+      "question": "Do skincare products with active ingredients (vitamin C, retinol, acids) burn or turn your skin red?",
+      "options": [
+        "Yes, even gentle products irritate me",
+        "Sometimes - I have to be very careful",
+        "Rarely - my skin handles most things",
+        "No - I can use strong actives without issue"
+      ],
+      "weights": {
+        "sensitive": 3,
+        "normal": 1,
+        "combination": 1,
+        "dry": 1
+      }
+    },
+    {
+      "id": 104,
+      "tag": "combination",
+      "question": "Which statement best describes your T-zone (forehead/nose/chin) vs your cheeks?",
+      "options": [
+        "T-zone very oily, cheeks normal to dry",
+        "T-zone oily, cheeks combination (mixed texture)",
+        "T-zone slightly oily, cheeks normal",
+        "T-zone oily, cheeks also oily"
+      ],
+      "weights": {
+        "combination": 3,
+        "oily": 1,
+        "normal": 1,
+        "dry": 1
+      }
+    }
+  ]
+}
